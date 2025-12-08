@@ -1,3 +1,10 @@
+# --- Custom by Hieu ---
+/data
+# vẫn để cho github tracking file này
+!data/.gitkeep
+
+config_local.py
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
