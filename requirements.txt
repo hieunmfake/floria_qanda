@@ -1,3 +1,5 @@
 youtube-transcript-api==1.2.3
 pydantic==2.12.4
 pydantic-ai==1.14.0
+loguru
+qdrant-client
